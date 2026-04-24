@@ -21,5 +21,4 @@ In simple terms, **Glide** is a "helper" library for Android that makes it incre
 ---
 *Created as a demonstration of Glide integration in Android.*
 
-
 <img width="348" height="691" alt="image" src="https://github.com/user-attachments/assets/e4dc9b45-6b73-4af8-9917-33c5f221d768" />

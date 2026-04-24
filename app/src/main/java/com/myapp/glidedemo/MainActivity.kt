@@ -1,4 +1,4 @@
-package com.tutorials.eu.glidedemo
+package com.myapp.glidedemo
 
 import android.os.Bundle
 import android.widget.ImageView
